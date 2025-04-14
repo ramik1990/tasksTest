@@ -1,5 +1,5 @@
 <template>
-  asdas
+  <router-view />
 </template>
 
 <script>
